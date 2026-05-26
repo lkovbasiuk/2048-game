@@ -4,10 +4,10 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #fbf8ef;
-  font-family: sans-serif;
   font-size: 24px;
   font-weight: 900;
+  background: #fbf8ef;
+  font-family: sans-serif;
 }
 
 .field-cell {
@@ -16,10 +16,10 @@ body {
   height: 75px;
   border-radius: 5px;
   color: #776e65;
-  box-sizing: border-box;
-  text-align: center;
   vertical-align: center;
   user-select: none;
+  box-sizing: border-box;
+  text-align: center;
 
   &--2 {
     background: #eee4da;
