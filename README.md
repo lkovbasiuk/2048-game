@@ -8,7 +8,7 @@ The project focuses on interactive gameplay, smooth user experience, responsive 
 ## Live Demo
 
 Experience the live website:
-https://lkovbasiuk.github.io/2048-game/
+[HERE](https://lkovbasiuk.github.io/2048-game/)
 
 ---
 
